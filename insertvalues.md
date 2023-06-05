@@ -1,7 +1,5 @@
 
-# Project Title
 
-A brief description of what this project does and who it's for
 
 ```sh
  Insert into emp
@@ -21,6 +19,9 @@ values ( 5 ,'Johana',650000,22,'Ops')
 Insert into emp
 values ( 6 ,'Rihana',120000,52,'Sales')
 '''
-[README (2).md](https://github.com/Shubhangikalbande/Postgres-SQL/files/11650233/README.2.md)
+
 
 Below Table will be created 
+
+[README (3).md](https://github.com/Shubhangikalbande/Postgres-SQL/files/11650252/README.3.md)
+
